@@ -436,6 +436,3 @@ Before running a workflow, estimate total API cost based on node types, model se
 ### Version Control for Workflows
 Git-like versioning: commit workflow snapshots, diff between versions, rollback to previous states. Essential for production workflows that evolve over time.
 
----
-
-*Built by **Saurav Kumar** as a trial task for **Galaxy.ai** — democratizing AI, one workflow at a time.*
